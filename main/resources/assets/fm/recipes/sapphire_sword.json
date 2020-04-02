@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " S ",
+        " S ",
+        " @ "
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "fm:sapphire"
+        },
+        
+        "@":
+        {
+            "item": "minecraft:stick"
+        }
+        
+    },
+    
+    "result":
+    {
+        "item": "fm:sapphire_sword",
+        "count": 1
+    }
+}

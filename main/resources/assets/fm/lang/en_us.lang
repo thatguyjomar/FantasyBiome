@@ -1,6 +1,12 @@
 //Items
 item.sapphire.name=Sapphire
 
+//Tools
+item.sapphire_sword.name=Sapphire Sword
+item.sapphire_shovel.name=Sapphire Shovel
+item.sapphire_pickaxe.name=Sapphire Pickaxe
+item.sapphire_axe.name=Sapphire Axe
+item.sapphire_hoe.name=Sapphire Hoe
 
 //Blocks
 tile.sapphire_block.name=Sapphire Block
