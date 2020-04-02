@@ -1,1 +1,6 @@
+//Items
 item.sapphire.name=Sapphire
+
+
+//Blocks
+tile.sapphire_block.name=Sapphire Block
