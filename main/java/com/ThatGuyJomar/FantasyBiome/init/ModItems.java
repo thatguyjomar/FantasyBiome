@@ -24,6 +24,7 @@ public class ModItems {
 	
 	//Items
 	public static final Item SAPPHIRE = new ItemBase("sapphire");
+	public static final Item RUBY = new ItemBase("ruby");
 	
 	//Materials
 	public static final ToolMaterial MATERIAL_SAPPHIRE = EnumHelper.addToolMaterial("material_sapphire", 2, 500, 9.0F, 3.5F, 11);

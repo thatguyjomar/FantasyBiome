@@ -13,4 +13,5 @@ public class ModBlocks {
 	public static final List<Block> BLOCKS = new ArrayList<Block>();
 	
 	public static final Block SAPPHIRE_BLOCK = new SapphireBlock("sapphire_block", Material.IRON);
+	public static final Block RUBY_BLOCK = new BlockBase("ruby_block", Material.IRON); 
 }

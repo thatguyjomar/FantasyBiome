@@ -1,5 +1,6 @@
 //Items
 item.sapphire.name=Sapphire
+item.ruby.name=Ruby
 
 //Tools
 item.sapphire_sword.name=Sapphire Sword
